@@ -15,14 +15,6 @@ export default {
   components: {
     Actividad,
   },
-/*************  ✨ Windsurf Command ⭐  *************/
-  /**
-   * Información del cuestionario para la actividad didáctica.
-   *
-   * @type {Object}
-   */
-  data: () => ({
-/*******  8244c949-3eb2-4005-ae7a-8e98b51065bf  *******/
   data: () => ({
     cuestionario: {
       tema: 'Nombre del CF',
