@@ -5,7 +5,16 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Titulo de primer nivel
+        h1 Escalado industrial manual 2
+      #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.1 Plano de los puntos (escalado de corpiño básico femenino)
+      #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.2 Escalado de pantalón básico femenino
+      #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.3 Escalado de falda básica femenina
+      #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.4 Escalado de manga y cuello
+      
         
 
   </template>
