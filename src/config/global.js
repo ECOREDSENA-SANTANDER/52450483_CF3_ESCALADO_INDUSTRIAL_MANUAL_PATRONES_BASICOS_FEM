@@ -69,7 +69,7 @@ export default {
         subMenu: [],
       },
       {
-        nombreRuta: 'tema4',
+        nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Marcación técnica de patrones',
         desarrolloContenidos: true,
