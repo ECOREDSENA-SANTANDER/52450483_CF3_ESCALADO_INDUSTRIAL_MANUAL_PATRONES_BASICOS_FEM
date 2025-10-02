@@ -52,15 +52,15 @@
           ul.lista-ul--color.mb-0
             li.d-flex.mb-4
               i.fas.fa-check.icon-list
-              p.mb-0 1 cm para cuartos de contorno de cintura y cadera (basado en incrementos de 4 cm totales por talla).
+              p.mb-0 #[b 1 cm] para cuartos de contorno de cintura y cadera (basado en incrementos de 4 cm totales por talla).
 
             li.d-flex.mb-4
               i.fas.fa-check.icon-list
-              p.mb-0 0,25 cm a 0,5 cm para alturas como cadera, talle o tiro, según la variable.
+              p.mb-0 #[b 0,25 cm a 0,5 cm] para alturas como cadera, talle o tiro, según la variable.
 
             li.d-flex.mb-0
               i.fas.fa-check.icon-list
-              p.mb-0 0,25 cm por lado en anchos de manga, hombro o bota.
+              p.mb-0 #[b 0,25 cm] por lado en anchos de manga, hombro o bota.
 
 
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")

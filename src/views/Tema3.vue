@@ -18,7 +18,6 @@
           p.mb-0 #[b Tabla 3.] Símbolos en la señalización de patrones
       .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left")
         table(alt="Tabla con símbolos utilizados en la señalización de patrones. Cada fila incluye nombre técnico, representación gráfica, descripción, función y ejemplo de aplicación. Se describen elementos como hilo de tela, corte al sesgo, doblez, piquete, línea de corte, ubicación de botón y costuras, entre otros.")
-          caption Referencia Tabla - Norma APA
           thead.bg-color-7
             tr
               th Denominación técnica
@@ -35,7 +34,7 @@
               td Flecha paralela al centro delantero de una camisa; mantiene el drapeado uniforme.
 
             tr
-              td.fw-bold Corte al sesgo / bias line
+              td.fw-bold Corte al sesgo / #[i bias line]
               td ⌁ (flecha diagonal 45°).
               td Línea oblicua (≈ 45°) rematada con flechas en ambos extremos.
               td Señala que la pieza debe colocarse diagonal al hilo, otorgando elasticidad controlada.
@@ -56,7 +55,7 @@
               td Señal de recorte en la vista frontal para crear tapeta francesa.
 
             tr
-              td.fw-bold Piquete / notch
+              td.fw-bold Piquete / #[i notch]
               td ┴ (T horizontal).
               td Segmento perpendicular que forma una “T”.
               td Marca de ensamblaje para hacer coincidir costuras y curvas.
@@ -88,7 +87,7 @@
               td ✸ P / ✸ In (asterisco + sigla).
               td Pequeños orificios señalados con asterisco y abreviatura.
               td Sirven de referencia para ubicar piezas internas (bolsillos, pinzas, presillas).
-              td ✸ P marca inicio de pinza de pecho; ✸ In para bolsillo interior de blazer.
+              td ✸ P marca inicio de pinza de pecho; ✸ In para bolsillo interior de #[i blazer].
 
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
@@ -110,7 +109,6 @@
           p.mb-0 #[b Tabla 4.] Información detallada de los patrones
       .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left")
         table(alt="Tabla que reúne elementos técnicos de marcación en patrones. Incluye columnas para el tipo de dato, contenido requerido, función y ejemplo aplicado. Detalla aspectos como nombre de la pieza, código, talla, cantidad de capas, sentido del hilo, doblez, piquetes, autoría y observaciones específicas.")
-          caption Referencia Tabla - Norma APA
           thead.bg-color-7
             tr
               th Elemento de marcación
@@ -122,7 +120,7 @@
               td.fw-bold Nombre de la pieza
               td Término exacto de la parte del molde.
               td Distingue y ordena los componentes durante el montaje.
-              td Delantero camisa sport.
+              td Delantero camisa #[i sport].
 
             tr
               td.fw-bold Referencia / código de modelo
@@ -174,7 +172,7 @@
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           p.mb-0 #[b Figura 7.] Patrón con especificaciones técnicas. 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-        .col-sm-12.col-lg-8
+        .col-sm-12.col-lg-12
           figure.mb-0
               img(src='@/assets/curso/temas/t3/4.svg', alt='Corresponde a un patrón industrial acompañado de especificaciones técnicas. Incluye piezas base identificadas con letras y numeración, cada una con referencias de corte, aplome y fases de confección. En la parte inferior se presenta una tabla de control donde se relaciona el nombre de cada pieza, el tipo de tela asignada, la cantidad de partes a cortar y el número de moldes requeridos, consolidando así la información necesaria para la organización y el ensamble de la prenda. ')
               figcaption.mb-0 Fuente: https://ayelenpellegrino.com/wp-content/uploads/2010/02/despiece-de-molderia.jpg
@@ -183,7 +181,6 @@
           p.mb-0 #[b Tabla 5.] Resumen de las marcaciones con ejemplo
       .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left")
         table(alt="Tabla con resumen de elementos de marcación en moldes, dividida en tres columnas: nombre del elemento, contenido requerido y ejemplo aplicado. Incluye datos como nombre de la pieza, código, talla, cantidad de capas, sentido del hilo, doblez, piquetes, responsable técnico y observaciones especiales.")
-          caption Referencia Tabla - Norma APA
           thead.bg-color-7
             tr
               th Elemento de marcación
@@ -216,7 +213,7 @@
               td Flecha paralela al centro delantero.
 
             tr
-              td.fw-bold Indicaciones de doblez
+              td.fw-bold Indicaciones de simetría / doblez
               td Leyenda “al lomo” o “colocar al doblez” para señalar piezas que deben cortarse en simetría, obteniendo su forma completa al desplegar el material.
               td Colocar al doblez en centro espalda.
 
@@ -258,7 +255,7 @@
           ul.lista-ul.lista-ul--separador
             li.d-flex.mb-0.py-2
               i.fas.fa-shirt.icon-list
-              p.mb-0 #[b Nombre de la prenda y referencia interna del diseño] (para su trazabilidad dentro del sistema de producción)
+              p.mb-0 #[b Nombre de la prenda y referencia interna del diseño] (para su trazabilidad dentro del sistema de producción).
 
             li.d-flex.mb-0.py-2
               i.fas.fa-shirt.icon-list
@@ -292,7 +289,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-2.text-white INTRODUCCIÓN A FICHA TÉCNICA
+                h4.mb-2.text-white Introducción a ficha técnica
 
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto

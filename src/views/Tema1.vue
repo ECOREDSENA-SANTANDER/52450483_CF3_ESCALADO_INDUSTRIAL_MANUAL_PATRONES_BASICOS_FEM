@@ -210,7 +210,8 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-2.text-white ESCALADO DE BASE CON PINZAS – SUPERIOR
+                h4.mb-2.text-white Escalado de base con pinzas -superior
+
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://youtu.be/ui7cNs-qD1k" target="_blank")
@@ -239,11 +240,12 @@
       
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           p.mb-0 #[b Figura 4.] Medidas corporales de referencia para patronaje femenino
-      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
         .col-sm-12.col-lg-12
           figure.mb-0
               img(src='@/assets/curso/temas/t1/21.svg', alt='Medidas corporales femeninas utilizadas como referencia en patronaje. Incluye valores de busto, cintura, cadera, espalda, pecho, talle, centro, costado, hombro, cuello, largo de prendas, altura de cadera, tiro, rodilla, bota y otras dimensiones, organizadas por tallas de la 6 a la 18 según el manual de patronaje SENA. ')
               figcaption Fuente: SENA, (2011)
+      p.mb-5 * La unidad de medida utilizada en la figura 4, es el centímetro (cm).
       .tarjeta.color-secundario.p-4.mb-5(data-aos="fade-left")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1.d-none.d-lg-block
@@ -262,9 +264,8 @@
       p.mb-5(data-aos="fade-left") Una vez analizadas las medidas con relación a la proporción de medidas de crecimiento entre tallas, se establecen las siguientes medidas para iniciar el escalado. 
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           p.mb-0 #[b Tabla 1.] Medidas de escalado para pantalón básico femenino 
-      .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left")
+      .tabla-a.color-acento-contenido.mb-3(data-aos="fade-left")
         table(alt="Tabla con ajustes técnicos para escalado de pantalón básico femenino en tallas del 6 al 14. Contiene columnas para medidas base, diferencia total entre tallas, proporción utilizada y valor aplicado por talla. Incluye datos de cintura, cadera, tiro, largo, altura de cadera, ancho de bota y rodilla.")
-          caption Referencia Tabla - Norma APA
           thead.bg-color-7
             tr
               th Medidas pantalón (tallas 6 a 14)
@@ -338,7 +339,7 @@
         .tarjeta.bg-fondo-2.p-4(titulo="Medidas a aplicar en el escalado")
           .row.justify-content-center.align-items-center.mb-0.py-4
             .col-12
-              p.mb-0 Esta columna refleja el valor específico que debe añadirse o sustraerse en el patrón para cada talla, ya calculado según la proporción correspondiente. Por ejemplo, para el ancho de bota, se define un incremento total de 0,5 cm entre tallas, y dado que se representa en la mitad del patrón (½), se aplica solo 0,25 cm en el molde.
+              p.mb-0 Esta columna refleja el valor específico que debe añadirse o sustraerse en el patrón para cada talla, ya calculado según la proporción correspondiente. Por ejemplo, para el #[b ancho de bota], se define un incremento total de 0,5 cm entre tallas, y dado que se representa en la mitad del patrón (½), se aplica solo 0,25 cm en el molde.
 
 
 
@@ -349,7 +350,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-2.text-white ESCALADO DE BÁSICO DE PANTALÓN
+                h4.mb-2.text-white Escalado de básico de pantalón
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://youtu.be/GS5jZ-Tw9vc" target="_blank")
@@ -368,7 +369,6 @@
           p.mb-0 #[b Tabla 2.] Medidas de escalado para el patrón básico de falda
       .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left")
         table(alt="Tabla con medidas para el escalado de blusa en tallas del 6 al 14. Presenta datos de cintura, cadera, altura de cadera, largo de falda y separación de busto, organizados por diferencia entre tallas, proporción utilizada y valor que debe aplicarse en el escalado.")
-          caption Referencia Tabla - Norma APA
           thead.bg-color-7 
             tr
               th Medidas la blusa (tallas 6 a 14)
@@ -444,7 +444,7 @@
                 p.mb-0 #[b Aplicación:] 1 cm por talla.
               li.d-flex
                 i.fas.fa-check.icon-list
-                p.mb-0 Permite mantener un ajuste adecuado en la zona media del cuerpo 
+                p.mb-0 Permite mantener un ajuste adecuado en la zona media del cuerpo femenino.
 
           .col-sm-12.col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/t1/23.png', alt='')
@@ -541,7 +541,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-2.text-white ESCALADO DE FALDA - FEMENINO
+                h4.mb-2.text-white Escalado de falda - femenino
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ddrsedOxtKA&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA" target="_blank")
@@ -558,7 +558,7 @@
       Separador
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.4 Escalado de manga y cuello
-      
+      p.mb-5 El escalado de la manga se realiza a partir de una talla base, aplicando valores de incremento en dimensiones clave. Cada valor corresponde al aumento en centímetros que se debe aplicar a cada punto señalado para obtener la siguiente talla. A continuación, se describe el procedimiento, desde una perspectiva técnica y accesible:
       .tarjeta--container.row.mb-5(data-aos="fade-left")
         .col-md.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-4.d-none.d-lg-block
@@ -569,10 +569,10 @@
           ul.lista-ul--color.mb-0
             li.d-flex
               i.fas.fa-check.icon-list-1
-              p.mb-0 Se incrementa 0,25 cm en el centro superior, para mantener la altura de la copa en proporción al crecimiento general de la prenda.
+              p.mb-0 Se incrementa #[b 0,25 cm en el centro superior], para mantener la altura de la copa en proporción al crecimiento general de la prenda.
             li.d-flex
               i.fas.fa-check.icon-list-1
-              p.mb-0 En los puntos laterales de la curva (a ambos lados del centro superior), también se aplican incrementos de 0,25 cm, lo que permite conservar la simetría y el calce adecuado con la sisa del cuerpo.
+              p.mb-0 En los puntos laterales de la curva (a ambos lados del centro superior), también se aplican incrementos de #[b 0,25 cm], lo que permite conservar la simetría y el calce adecuado con la sisa del cuerpo.
         .col-md.tarjeta.bg-color-5.p-5
           .row.justify-content-center.mb-4.d-none.d-lg-block
             .col-6.m-auto
@@ -582,7 +582,7 @@
           ul.lista-ul--color.mb-0
             li.d-flex
               i.fas.fa-check.icon-list-2
-              p.mb-0.text-white Se suma 1 cm en los extremos superiores laterales, lo cual amplía el contorno de sisa y asegura que la manga se articule correctamente con el crecimiento del cuerpo de la prenda.
+              p.mb-0.text-white Se suma #[b 1 cm en los extremos superiores laterales], lo cual amplía el contorno de sisa y asegura que la manga se articule correctamente con el crecimiento del cuerpo de la prenda.
         .col-md.tarjeta.color-acento-contenido.p-5
           .row.justify-content-center.mb-4.d-none.d-lg-block
             .col-6.m-auto
@@ -592,10 +592,10 @@
           ul.lista-ul--color.mb-0
             li.d-flex
               i.fas.fa-check.icon-list-2
-              p.mb-0 Se aumentan 0,25 cm hacia ambos lados en la base, ampliando el contorno del puño.
+              p.mb-0 Se aumentan #[b 0,25 cm hacia ambos lados en la base], ampliando el contorno del puño.
             li.d-flex
               i.fas.fa-check.icon-list-2
-              p.mb-0 Además, se incrementan 0,6 cm en vertical, ajustando proporcionalmente el largo total de la manga.
+              p.mb-0 Además, se incrementan #[b 0,6 cm en vertical], ajustando proporcionalmente el largo total de la manga.
 
 
 
@@ -604,7 +604,7 @@
         p.mb-0 Estos incrementos se distribuyen de manera equitativa y sistemática, respetando el principio del escalado progresivo. Es decir, cada talla superior a la base incorpora estos aumentos acumulativamente, lo que permite que el patrón crezca de forma coherente y funcional para garantizar el confort, la movilidad y la estética.
 
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-          p.mb-0 #[b Figura 6.] Patrón básico de manga con medidas para escalado. 
+          p.mb-0 #[b Figura 6.] Patrón básico de manga con medidas para escalado
       .row.justify-content-center.align-items-center.mb-5
         .col-sm-12.col-lg-4
           figure.mb-0
@@ -618,7 +618,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-2.text-white CORTES, MANGA, CUELLO – ESCALADO
+                h4.mb-2.text-white Cortes, manga, cuello – escalado
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ENCEKC4EwKU&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA" target="_blank")
