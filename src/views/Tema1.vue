@@ -210,7 +210,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-2.text-white Escalado de base con pinzas -superior
+                h4.mb-2.text-white Escalado de base con pinzas - superior
 
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
