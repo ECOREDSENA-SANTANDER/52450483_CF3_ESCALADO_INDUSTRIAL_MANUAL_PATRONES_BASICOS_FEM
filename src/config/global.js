@@ -131,18 +131,16 @@ export default {
     {
       tema: 'Escalado industrial manual',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Cómo hacer un patrón a escala.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). ¿Cómo hacer un patrón a escala?',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=m2Fs4_FwmoE&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+      link: 'https://www.youtube.com/watch?v=TYjDS0QAiYw',
     },
     {
       tema: 'Marcación técnica de patrones',
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA. (2021). Diligenciamiento de ficha técnica de prenda.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=ck4jApUj5ss&t=508s&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+      link: 'https://www.youtube.com/watch?v=PfYp-Hsyb6I',
     },
   ],
   glosario: [

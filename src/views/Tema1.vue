@@ -214,7 +214,7 @@
 
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://youtu.be/ui7cNs-qD1k" target="_blank")
+                a.boton.color-acento-botones(href="https://youtu.be/5w_UnxRLOBQ" target="_blank")
                   span Ir al sitio
                   i.fas.fa-file-video
       
@@ -353,7 +353,7 @@
                 h4.mb-2.text-white Escalado de básico de pantalón
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://youtu.be/GS5jZ-Tw9vc" target="_blank")
+                a.boton.color-acento-botones(href="https://youtu.be/0YU3YvgmqQg" target="_blank")
                   span Ir al sitio
                   i.fas.fa-file-video
 
@@ -544,7 +544,7 @@
                 h4.mb-2.text-white Escalado de falda - femenino
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ddrsedOxtKA&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA" target="_blank")
+                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=-YYkMqxaJfg" target="_blank")
                   span Ir al sitio
                   i.fas.fa-file-video
 
@@ -621,7 +621,7 @@
                 h4.mb-2.text-white Cortes, manga, cuello – escalado
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ENCEKC4EwKU&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA" target="_blank")
+                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=_GM6Ni5lDW8" target="_blank")
                   span Ir al sitio
                   i.fas.fa-file-video  
 

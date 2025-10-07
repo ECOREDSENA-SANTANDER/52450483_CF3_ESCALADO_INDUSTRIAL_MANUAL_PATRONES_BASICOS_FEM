@@ -293,7 +293,7 @@
 
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://youtu.be/5YOLIDHLiCw" target="_blank")
+                a.boton.color-acento-botones(href="https://youtu.be/Z_27vgSfo1Y" target="_blank")
                   span Ir al sitio
                   i.fas.fa-file-video  
   </template>
