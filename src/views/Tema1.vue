@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Escalado industrial manual 2
+        h1 Escalado industrial manual
       
       .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
         .bloque-texto-g__img.d-none.d-lg-block(
@@ -513,13 +513,13 @@
             ul.lista-ul--color.mb-0
               li.d-flex
                 i.fas.fa-check.icon-list
-                p.mb-0 D x T: 0,5 cm.
+                p.mb-0 #[b D x T:] 0,5 cm.
               li.d-flex
                 i.fas.fa-check.icon-list
-                p.mb-0 Proporción: ½.
+                p.mb-0 #[b Proporción:] ½.
               li.d-flex
                 i.fas.fa-check.icon-list
-                p.mb-0 Aplicación: 0,25 cm por talla.
+                p.mb-0 #[b Aplicación:] 0,25 cm por talla.
               li.d-flex
                 i.fas.fa-check.icon-list
                 p.mb-0 Permite conservar la alineación estructural entre las pinzas o detalles constructivos asociados.

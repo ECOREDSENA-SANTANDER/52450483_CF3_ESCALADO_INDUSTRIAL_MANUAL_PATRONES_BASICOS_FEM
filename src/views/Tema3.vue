@@ -170,7 +170,7 @@
               td Aclara requisitos específicos del diseño.
               td “Refuerzo con entretela fusible en tapeta”.
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-          p.mb-0 #[b Figura 7.] Patrón con especificaciones técnicas. 
+          p.mb-0 #[b Figura 7.] Patrón con especificaciones técnicas
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-12
           figure.mb-0
