@@ -175,7 +175,7 @@
         .col-sm-12.col-lg-12
           figure.mb-0
               img(src='@/assets/curso/temas/t3/4.svg', alt='Corresponde a un patrón industrial acompañado de especificaciones técnicas. Incluye piezas base identificadas con letras y numeración, cada una con referencias de corte, aplome y fases de confección. En la parte inferior se presenta una tabla de control donde se relaciona el nombre de cada pieza, el tipo de tela asignada, la cantidad de partes a cortar y el número de moldes requeridos, consolidando así la información necesaria para la organización y el ensamble de la prenda. ')
-              figcaption.mb-0 Fuente: https://ayelenpellegrino.com/wp-content/uploads/2010/02/despiece-de-molderia.jpg
+              figcaption.mb-0 Fuente: Pellegrino, A. (s.f.).
       p.mb-5(data-aos="fade-left") A continuación, se presenta un ejemplo por cada área abordada en las marcaciones de las piezas.
       .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           p.mb-0 #[b Tabla 5.] Resumen de las marcaciones con ejemplo
