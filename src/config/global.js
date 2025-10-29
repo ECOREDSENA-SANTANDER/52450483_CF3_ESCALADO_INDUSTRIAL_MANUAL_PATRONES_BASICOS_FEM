@@ -265,6 +265,11 @@ export default {
       referencia:
         'Rodríguez, L. (2020). Patronaje industrial de prendas de vestir: Estudios y aplicaciones. Editorial Bogotá.',
     },
+    {
+      referencia: 'Pellegrino, A. (s.f.). Despiece de moldería.',
+      link:
+        ' https://ayelenpellegrino.com/wp-content/uploads/2010/02/despiece-de-molderia.jpg',
+    },
 
     {
       referencia:
